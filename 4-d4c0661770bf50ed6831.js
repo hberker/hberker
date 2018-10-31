@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{134:function(a){a.exports={pages:[{componentChunkName:"component---src-pages-index-js",jsonName:"index",path:"/"},{componentChunkName:"component---src-pages-about-page-about-css-modules-js",jsonName:"about-page-about-css-modules-4a6",path:"/AboutPage/about-css-modules/"}],dataPaths:{"about-page-about-css-modules-4a6":"6/path---about-page-about-css-modules-4-a-6-3e7-NZuapzHg3X9TaN1iIixfv1W23E",index:"173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"}}}}]);
+//# sourceMappingURL=4-d4c0661770bf50ed6831.js.map
